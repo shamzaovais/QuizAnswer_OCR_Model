@@ -128,3 +128,4 @@ This project uses:
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)
 
+<img width="2624" height="1618" alt="Gemini_Generated_Image_kcwqhtkcwqhtkcwq" src="https://github.com/user-attachments/assets/665baf28-611a-4539-bb04-933ac78c4fef" />
